@@ -1,1 +1,3 @@
-HI ALL
+provider "aws" {
+  
+}
