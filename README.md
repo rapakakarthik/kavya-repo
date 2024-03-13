@@ -1,1 +1,1 @@
-karthik repo
+it is a readme repository
